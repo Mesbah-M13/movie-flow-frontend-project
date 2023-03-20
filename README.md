@@ -1,5 +1,5 @@
 # Movie Website with React Js
-A web app to note down a things to do.
+A web app for movies.
 
 [Live Website]( https://movie-flow-6064ea.netlify.app/)
 
