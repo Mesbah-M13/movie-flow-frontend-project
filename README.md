@@ -5,7 +5,7 @@ A web app for movies.
 
 #### Features :
 * Easy to hover over different routes.
-* Use a keyword to search
+* Use a keyword/movie name to search
 * Switch to Dark/Light setting.
 * Displaying the relevant details for the chosen movie
 * Visit the IMDB website by clicking the IMDB Code when viewing a specific movie.
